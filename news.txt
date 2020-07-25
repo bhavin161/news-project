@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Coronavirus updates: Obesity increases risk of death, experts say",
+"description": "Obesity puts you at greater risk of serious illness or death from the virus, experts in England say.",
+"url": "http://www.bbc.co.uk/news/live/world-53536169",
+"urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+"publishedAt": "2020-07-25T08:22:27.4090245Z",
+"content": "Professor Robin Shattock, who is leading work on a coronavirus vaccine at Imperial College London, says it is crucial to have multiple\r\nvaccines available, as his version moves to the next stage of i… [+792 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Trump acts to cut prescription drug prices in US",
+"description": "The president says his executive orders will overhaul the drug market, but some experts are sceptical.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53534950",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FEB4/production/_113640256_28b7ebf1-73af-49ed-a361-4e7c2345f4ac.jpg",
+"publishedAt": "2020-07-25T01:32:39Z",
+"content": "Image copyrightEPAImage caption\r\n Donald Trump said he wanted to \"completely restructure the prescription drug market\"\r\nPresident Donald Trump has signed four executive orders aimed at cutting prescr… [+1971 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Singapore man admits being Chinese spy in US",
+"description": "A court hearing is the latest incident as tensions rise between the US and China in recent days.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53534941",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1454/production/_113640250_102dff19-1f45-4d14-841b-01f8f8f4b9f8.jpg",
+"publishedAt": "2020-07-25T00:29:50Z",
+"content": "Image copyrightGetty Images/AFP\r\nA Singaporean man has pleaded guilty in the US to working as an agent of China, the latest incident in a growing stand-off between Washington and Beijing.\r\nJun Wei Ye… [+4413 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "The week when everything changed for Trump",
+"description": "Coronavirus has been a foe like none that Donald Trump has faced - he has had to bend to its will.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53532880",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14C70/production/_113640158_trump_getty.jpg",
+"publishedAt": "2020-07-24T22:28:53Z",
+"content": "Image copyrightGetty Images\r\nIt's as though in January 2017, Donald Trump was given a shiny, new car. The best, most beautiful car the world has ever seen. And in July 2020, the president made an imp… [+7998 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC Sport",
+"title": "US, Mexican & Brazilian races cancelled",
+"description": "Formula 1 calls off the US, Mexican and Brazilian Grands Prix this year as a result of the coronavirus crisis in the Americas.",
+"url": "http://www.bbc.co.uk/sport/formula1/53527355",
+"urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D08E/production/_113609335_braziliangp.jpg",
+"publishedAt": "2020-07-24T20:52:22.0292126Z",
+"content": "Red Bull's Max Verstappen won the Brazilian Grand Prix in 2019\r\nFormula 1 has called off the US, Mexican and Brazilian Grands Prix this year as a result of the coronavirus crisis in the Americas.\r\nWi… [+2806 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Viewer spots Florida reporter's cancerous growth",
+"description": "After watching an on-air broadcast, an eagle-eyed viewer urged Victoria Price to see a doctor.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53533799",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/805D/production/_113616823_screenshot2020-07-24at1.45.33pm.png",
+"publishedAt": "2020-07-24T18:47:05Z",
+"content": "Image copyrightInstagram/ Victoria PriceImage caption\r\n A viewer spotted Price's growth after watching an on-air broadcast\r\nA reporter in Florida has thanked a viewer who spotted a cancerous growth o… [+2505 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Chicago removes Christopher Columbus statues",
+"description": "The temporary move comes after protesters attempted to topple a statue of the Italian explorer.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53530752",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11581/production/_113614017_mediaitem113614016.jpg",
+"publishedAt": "2020-07-24T16:26:30Z",
+"content": "Image copyrightReutersImage caption\r\n It comes a week after protesters attempted to topple the statue\r\nTwo statues of Christopher Columbus have been temporarily removed in Chicago. \r\nIt comes a week … [+1703 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Canada shooting probe 'wholly insufficient'",
+"description": "Victims' families from Canada's deadliest shooting are disappointed after a review is announced.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-53530262",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/557B/production/_111838812_hi061139665.jpg",
+"publishedAt": "2020-07-24T15:25:25Z",
+"content": "Image copyrightGetty ImagesImage caption\r\n Families and lawmakers have been calling for a public inquiry for months\r\nFamilies of victims of Canada's deadliest shooting have called a planned review of… [+3274 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Genetic impact of colonial-era slave trade revealed",
+"description": "The consequences of rape, maltreatment, disease and racism are revealed by the findings.",
+"url": "http://www.bbc.co.uk/news/world-africa-53527405",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D675/production/_113610945_mediaitem113610944.jpg",
+"publishedAt": "2020-07-24T14:20:17Z",
+"content": "Image copyrightReutersImage caption\r\n More than 12 million Africans were forcibly transported across the Atlantic to work as slaves\r\nA major DNA study has shed new light on the fate of millions of Af… [+4004 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "US fighter jet 'challenges' Iran passenger plane",
+"description": "Iran reports injuries after the plane changed altitude, but the US says its jet was at a safe distance.",
+"url": "http://www.bbc.co.uk/news/world-middle-east-53521726",
+"urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08lq5kx.jpg",
+"publishedAt": "2020-07-24T08:54:32Z",
+"content": "Media captionVideo shows a fighter jet from the window of the plane, and a passenger with blood on his face\r\nIran's media say at least one US fighter jet came dangerously close to an Iranian passenge… [+2701 chars]"
+}
+]
+}
